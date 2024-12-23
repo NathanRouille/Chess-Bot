@@ -56,7 +56,7 @@ ChessAI is a chess-playing bot developed entirely from scratch, without relying 
 
    ```bash
    git clone https://github.com/NathanRouille/Chess-Bot.git
-   cd ChessAI
+   cd Chess-Bot
    ```
 
 2. Install the required dependencies:
